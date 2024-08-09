@@ -8,7 +8,9 @@ Jupyter notebook to download pics and metadata from Phylopic to use offline in v
 ---
 
 Step 1: Copy notebook to the location of choice.
+
 Step 2: Edit the path variable to this new path (at the top).
+
 Step 3: Run.
 
 Enjoy! 
